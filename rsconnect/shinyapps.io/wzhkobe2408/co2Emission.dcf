@@ -1,0 +1,12 @@
+name: co2Emission
+title: co2Emission
+username:
+account: wzhkobe2408
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 342760
+bundleId: 1374077
+url: https://wzhkobe2408.shinyapps.io/co2Emission/
+when: 1526351493.67423
+asMultiple: FALSE
+asStatic: FALSE

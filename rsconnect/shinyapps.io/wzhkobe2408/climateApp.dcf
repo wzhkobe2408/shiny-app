@@ -1,0 +1,12 @@
+name: climateApp
+title: climateApp
+username:
+account: wzhkobe2408
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 342601
+bundleId: 1372599
+url: https://wzhkobe2408.shinyapps.io/climateApp/
+when: 1526291896.45243
+asMultiple: FALSE
+asStatic: FALSE
